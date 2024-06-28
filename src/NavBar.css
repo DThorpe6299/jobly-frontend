@@ -1,0 +1,17 @@
+.NavBarLinks {
+  display: flex;
+  flex-direction: column; /* Change to column to stack links vertically */
+  align-items: flex-end; /* Align items to the right */
+}
+
+.NavBarLinks {
+  color: #007bff;
+  margin: 10px 0; /* Add vertical margin for spacing */
+  text-decoration: none;
+  display: block; /* Make links block elements */
+}
+
+.NavBarLinks {
+  color: #333;
+  font-weight: bold;
+}
